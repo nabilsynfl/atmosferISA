@@ -30,3 +30,6 @@ Air density must be calculated in order to solve for the pressure, and is used i
 
 Thus the standard consists of a tabulation of values at various altitudes, plus some formulas by which those values were derived. To accommodate the lowest points on Earth, the model starts at a base geopotential altitude of 610 meters (2,000 ft) below sea level, with standard temperature set at 19 °C. With a temperature lapse rate of −6.5 °C (-11.7 °F) per km (roughly −2 °C (-3.6 °F) per 1,000 ft), the table interpolates to the standard mean sea level values of 15 °C (59 °F) temperature, 101,325 pascals (14.6959 psi) (1 atm) pressure, and a density of 1.2250 kilograms per cubic meter (0.07647 lb/cu ft). The tropospheric tabulation continues to 11,000 meters (36,089 ft), where the temperature has fallen to −56.5 °C (−69.7 °F), the pressure to 22,632 pascals (3.2825 psi), and the density to 0.3639 kilograms per cubic meter (0.02272 lb/cu ft). Between 11 km and 20 km, the temperature remains constant.[3][4]
 
+### Comparison of a graph of International Standard Atmosphere temperature and pressure and approximate altitudes of various objects and successful stratospheric jumps
+
+
