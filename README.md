@@ -32,4 +32,5 @@ Thus the standard consists of a tabulation of values at various altitudes, plus 
 
 ### Comparison of a graph of International Standard Atmosphere temperature and pressure and approximate altitudes of various objects and successful stratospheric jumps
 
+![image](https://user-images.githubusercontent.com/97229948/173485000-ce7a8e25-64d6-4cb6-a86f-6de2a1c62d13.png)
 
