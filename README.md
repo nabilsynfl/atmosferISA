@@ -20,5 +20,6 @@ the vertical pressure gradient resulting from hydrostatic balance, which relates
 ![image](https://user-images.githubusercontent.com/97229948/173484501-c57301ea-75eb-4a96-a558-2302f26fd118.png)
 
 the ideal gas law in molar form, which relates pressure , density, and temperature:
+
 ![image](https://user-images.githubusercontent.com/97229948/173484573-6c040be2-148b-45ad-a76c-20072f5c9d70.png)
 
